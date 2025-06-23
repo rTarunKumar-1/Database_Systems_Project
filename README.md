@@ -12,3 +12,9 @@ uniquely among the drugs produced by that company. If a pharmaceutical company i
 7. each pharmacy sells several drugs (at least 10) and has price for each drug. A drug could be sold at several pharmacies, and the price of the same drug may vary from one pharmacy to other.
 8. Doctors prescribe drugs for patients. A doctor could prescribe one or more drugs, for several patients. A patient can get prescription from several doctors.Each prescription has a date and quantity for each drug prescribed in it. If a doctor gives more than one prescription to a single patient, latest one need to be stored. Doctors give max one prescription to a given patient, on a given date.
 9. Pharmaceutical companies have contracts with pharmacies. We store contract start date and end date and contract content, in database. Each pharmacy assigns a supervisor for each contract. And for a contract, supervisor can be changed.
+
+## Contributors
+- Pranav P Jagathpathy
+- Mahadevan M
+- R Tarun Kumar
+- Lokesh Lakshminarayanan
