@@ -1,5 +1,4 @@
 # Database_Systems_Project
-In this activity the focus will be on ER/EER Modeling, Relational schema design and refinement (Normalization), implementing database (creating tables with constraints and inserting initial data necessary) and writing SQL/PL-SQL code for data entry, updates, generating reports, manipulation and enforcing certain complex constraints or rules.
 
 We assume a scenario where “NOVA” is a chain of pharmacies that sells drugs produced by different Pharmaceutical Companies. We are to design and implement a Relational database for Nova to capture the following information related to- Pharmacies under Nova, Pharmaceutical Companies that supply drugs to pharmacies of Nova, Patients, Doctors, Drugs at different pharmacies of Nova, Prescriptions from doctors to patients etc., as detailed below.
 1. For each patient we store details- AadharID (unique), name, address, and age.
